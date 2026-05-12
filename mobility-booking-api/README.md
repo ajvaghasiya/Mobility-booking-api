@@ -1,8 +1,7 @@
 # Mobility Booking API
 
-A Python REST API for a car rental booking platform, covering the full digital experience lifecycle: vehicle search, customer registration, booking creation and management, mobile check-in, and an AI-powered customer assistant using the Anthropic Claude API.
+A Python REST API for a car rental booking platform, covering the full digital experience lifecycle: vehicle search, customer registration, booking creation and management, mobile check-in, and an AI-powered customer assistant.
 
-Built to demonstrate full-stack Python web development skills relevant to digital experience and mobility platform engineering.
 
 ---
 
